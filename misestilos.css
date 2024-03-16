@@ -21,7 +21,23 @@ span ul li{
     font-weight: 700;
 }
 
-#boton(
-    background-color red;
-    border none
-)
+#boton{
+    background-color: red;
+    border:none;
+    font-size: 35px;
+    width: 550px;
+    padding: 32;
+    color:yellowgreen;
+}
+
+.texto{
+    color: gray;
+}
+
+.link{
+    color: black;
+}
+
+a:hover{
+    color: orange;
+}
