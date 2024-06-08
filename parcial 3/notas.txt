@@ -1,0 +1,7 @@
+ SELECT  A% NOMBRE FROM usuarios_id
+ SELECT  A%usuarios_id FROM usuarios_id WHERE membrecia
+ SELECT  A% FROM usuarios_id WHERE NOMBRE LIKE 'A*';
+ SELECT  A% FROM canciones WHERE FECHA>2024-01-01
+ SELECT   A% FROM canciones WHERE generos_ID GET generos_ID=2;
+ SELECT   A% FROM canciones WHERE NOMBRE LIKE COME
+ SELECT   COUNT(4)FROM favoritos WHERE canciones_ID=1
